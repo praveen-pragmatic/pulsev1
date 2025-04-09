@@ -270,7 +270,7 @@ const useStore = create(
 
         try {
           // Store in IndexedDB
-          await rfpDB.add(newRfp);
+         // await rfpDB.add(newRfp);
           
           // Update state
           set((state) => {
