@@ -1,0 +1,1 @@
+export { KnowledgeCentral } from './KnowledgeCentral';
